@@ -1,5 +1,4 @@
 name: QA
-
 on: push
 
 jobs:
